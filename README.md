@@ -2,7 +2,7 @@
 
 Collection of initial ALX frontend projects focusing on HTML, CSS, and JavaScript fundamentals.
 
-## 📚 Projects Included
+## Projects Included
 
 ### alx-project-0x00
 - **Focus:** HTML basics and structure
@@ -12,7 +12,7 @@ Collection of initial ALX frontend projects focusing on HTML, CSS, and JavaScrip
 - **Focus:** CSS fundamentals and styling
 - **Topics:** Selectors, box model, flexbox, positioning
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Write valid, semantic HTML5
 - Apply CSS styling and layouts
@@ -20,14 +20,14 @@ Collection of initial ALX frontend projects focusing on HTML, CSS, and JavaScrip
 - Create responsive designs
 - Follow web accessibility standards
 
-## 🚀 Usage
+## Usage
 
 ```bash
 cd alx-project-0x00
 # Open index.html in browser
 ```
 
-## 📖 ALX Program Context
+## ALX Program Context
 
 These are foundational exercises from the ALX Software Engineering Frontend track.
 
